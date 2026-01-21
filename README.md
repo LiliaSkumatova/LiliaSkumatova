@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Hello.png" alt="Hello" width="900">
+  <img src="Hello.png" alt="Hello" width="500">
 </p>
 
 # Hi, I’m Lilia 👋
