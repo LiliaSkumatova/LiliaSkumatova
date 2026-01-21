@@ -1,6 +1,6 @@
-## Hi there 👋
+
 <p align="center">
-  <img src="Hello.png" alt="Hello" width="600">
+  <img src="Hello.png" alt="Hello" width="1000">
 </p>
 
 <!--
